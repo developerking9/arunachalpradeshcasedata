@@ -1,14 +1,18 @@
 {
   "MadhyapradeshCaseReport": [
     {
-      "id": 1,
-      "Name": "Telangana State",
-      "TotalCases": "65000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
-      "Condition": "Need to improve"
+       "id": 1,
+      "Nameau": "Arunachal Pradesh (अरुणाचल प्रदेश)",
+      "TotalCasesau": "1583792",
+      "TotalDeathsau": "34968",
+      "TotalRecoveredau": "1020582",
+      "TotalCasesoau": "1.58M",
+      "TotalDeathswau": "34.96K",
+      "TotalRecoveredrau": "1.02M",
+      "TotalIncau": "52.12K+",
+      "TotalDecau": "775+",
+      "TotalRecau": "32.55K+",
+      "Conditionau": "Need to improve"
     }
   ]
 }
